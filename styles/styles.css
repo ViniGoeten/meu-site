@@ -129,7 +129,6 @@ a {
 
 }
 
-
 .rodape__info__text {
     text-decoration: none;
     display: flex;
@@ -227,5 +226,9 @@ a {
 
     .imagem__certificados {
         width: 20rem;
+    }
+
+    .criador {
+        font-size: 1.4rem;
     }
 }
